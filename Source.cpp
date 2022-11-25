@@ -31,6 +31,7 @@ double y = 0;
 		cin.clear();
 		cin.ignore(numeric_limits<streamsize>::max(), '\n');
 	}
+	/* додаткова частина кода */
 	cout << "Input n=";	
 	inputn:
 
